@@ -1,9 +1,0 @@
-id
-summary, description
-requirement id
-actual result
-expected result
-steps to reproduce
-severity
-priority
-attachments
